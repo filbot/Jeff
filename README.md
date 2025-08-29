@@ -2,7 +2,9 @@
 
 *An OLED, a red LED, some copper, and a bit of code... meet Jeff.*  
 
-This is Jeff.  
+This is Jeff.
+
+![This is Jeff](/jeff-product-photo.jpeg)
 
 Jeff is a little electronics sculpture I put together with an OLED screen, a red LED, and some bent copper rod. It’s not really meant to be useful. The idea was just to see if I could make something small that feels a little bit alive.
 
